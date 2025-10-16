@@ -12,7 +12,7 @@
 ### 👨‍💻 Sobre Mim
 
 Sou **Engenheiro de Software Full Stack** com experiência no desenvolvimento de aplicações **web robustas, escaláveis e seguras**, além de **sistemas de gestão e APIs REST**.  
-Atuo em **todo o ciclo de desenvolvimento** — da análise de requisitos e arquitetura à implementação, testes e manutenção.
+Atuo em **todo o ciclo de desenvolvimento**, da análise de requisitos e arquitetura à implementação, testes e manutenção.
 
 Proficiente em **Python, JavaScript, TypeScript, C#, C e C++**, com domínio de frameworks modernos como **React, Next.js, Node.js e Laravel**.  
 Focado em entregar soluções eficientes e de alta performance, aplicando **princípios SOLID**, **Clean Code** e **metodologias ágeis (Scrum e Kanban)**.

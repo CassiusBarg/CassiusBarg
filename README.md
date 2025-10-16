@@ -1,79 +1,110 @@
-## Hi there 👋
-
-<!--
-**CassiusBarg/CassiusBarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">👋 Olá, eu sou o Cassius Vinicius Barg</h1>
 
 <p align="center">
-  💻 Desenvolvedor Full Stack | 🚀 Empreendedor | 🎨 UX/UI Enthusiast <br/>
-  <a href="https://cassiusbarg.com">🌐 cassiusbarg.com</a> • 
-  <a href="https://www.linkedin.com/in/cassiusbarg/">LinkedIn</a> • 
+  🚀 Engenheiro de Software Full Stack | 💻 Desenvolvedor Web | 🤖 IA & Automação <br/>
+  <a href="https://cassiusbarg.com" target="_blank">🌐 cassiusbarg.com</a> • 
+  <a href="https://www.linkedin.com/in/cassiusbarg/" target="_blank">LinkedIn</a> • 
   <a href="mailto:cassiusbarg@gmail.com">E-mail</a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
-Sou um desenvolvedor **Full Stack** apaixonado por tecnologia, inovação e soluções criativas.  
-Atuo com **React, Next.js, Node.js, Tailwind, Prisma, Docker e MongoDB**, sempre buscando unir **performance e design** para criar experiências incríveis.
+### 👨‍💻 Sobre Mim
+
+Sou **Engenheiro de Software Full Stack** com experiência no desenvolvimento de aplicações **web robustas, escaláveis e seguras**, além de **sistemas de gestão e APIs REST**.  
+Atuo em **todo o ciclo de desenvolvimento** — da análise de requisitos e arquitetura à implementação, testes e manutenção.
+
+Proficiente em **Python, JavaScript, TypeScript, C#, C e C++**, com domínio de frameworks modernos como **React, Next.js, Node.js e Laravel**.  
+Focado em entregar soluções eficientes e de alta performance, aplicando **princípios SOLID**, **Clean Code** e **metodologias ágeis (Scrum e Kanban)**.
+
+Sou movido por desafios e pela busca da excelência técnica, com o objetivo de criar soluções **inovadoras com impacto real e valor de negócio**.
 
 ---
 
-### ⚙️ Tecnologias e Ferramentas
+### 🚀 Projetos Ativos
 
-#### 💬 Linguagens:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+| Projeto | Descrição | Tecnologias |
+|:--|:--|:--|
+| 🌿 [**CBDreams**](https://cbdreams.org) | Plataforma de prescrição e agendamento médico online com integração de pagamentos e prontuários. | React, Node.js, Tailwind, MongoDB |
+| 🤖 [**IA Creo**](https://iacreo.com) | Plataforma de automação de postagens com IA, integrada ao Instagram, Facebook e TikTok. | Next.js, Node.js, Prisma, OpenAI API |
+| 💞 [**Matchify Network**](https://matchify.network) | Aplicativo social em PWA que conecta pessoas com base em interesses, usando matching inteligente. | React, Vite, Firebase, Express |
+| 💳 [**DelasBank**](https://delasbank.com.br) | Fintech com foco em empoderamento financeiro feminino, oferecendo soluções digitais de pagamento. | Laravel, PHP, MySQL, TailwindCSS |
 
-#### ⚛️ Front-End:
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
+> 🧩 Todos os projetos estão **em produção**, com usuários reais e sistemas de backend e frontend ativos.
 
-#### 🛠 Back-End:
-![Express](https://img.shields.io/badge/-Express-000000?logo=express)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)
+---
 
-#### 🧩 Banco de Dados:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
+### 🧠 Formação
 
-#### 🧰 Ferramentas:
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
+📘 **Formação Base para Desenvolvedor – TreinaWeb (84h)**  
+🎨 **HTML e CSS Avançado – TreinaWeb (116h)**  
+⚙️ **JavaScript Moderno – TreinaWeb (168h)**  
+🏗 **Engenharia de Software – TreinaWeb (52h)**  
+🌐 **Flask Full Stack – TreinaWeb (68h)**  
+🎨 **UX/UI Designer – TreinaWeb (70h)**  
+🧠 **Fundamentos de IA para Devs – DIO Santander Bootcamp (2024)**
+
+---
+
+### 🧩 Habilidades Técnicas
+
+#### 🎨 Desenvolvimento Frontend
+React • React Native • JavaScript • TypeScript • TailwindCSS • UX/UI • Next.js • Redux
+
+#### ⚙️ Backend & APIs
+Python • Node.js • Laravel • REST API • GraphQL • Golang • Java • Microservices
+
+#### ☁️ Banco de Dados & Cloud
+SQL • MongoDB (NoSQL) • Firebase • PostgreSQL • Redis • Docker • Cloud (AWS / GCP) • CI/CD
+
+#### 🤖 Programação & Automação
+C++ • C# • IA • RPA
+
+#### 🎮 Desenvolvimento de Jogos
+Unity • Unreal Engine
+
+#### 🧭 Outros
+Git & GitHub • Agile • Scrum • Kanban
+
+#### 🌎 Idiomas
+Português — Nativo • Inglês — Fluente
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CassiusBarg&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassiusBarg&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CassiusBarg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassiusBarg&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,python,flask,php,laravel,mysql,postgres,mongodb,docker,git,github,figma,typescript,javascript,java,cpp,cs,aws,redis,unity,unreal,graphql" />
 </p>
 
 ---
 
 ### 📫 Contato
+
 <p align="center">
   <a href="mailto:cassiusbarg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://wa.me/5547997737121"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/cassiusbarg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+---
+
+### 🏆 Destaques
+💡 Criação de sistemas escaláveis com Node.js e Next.js  
+🤖 Integrações inteligentes com IA e automações personalizadas  
+🌐 Desenvolvimento de PWA e plataformas SaaS  
+🎯 Aplicação de princípios SOLID e Clean Architecture  
+🚀 Deploy com Docker e CI/CD em nuvem (AWS / GCP)
+
+---
+
+<p align="center">✨ Sempre aprendendo, criando e inovando com propósito.</p>

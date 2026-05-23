@@ -5,6 +5,7 @@
   <a href="https://cassiusbarg.com" target="_blank">🌐 cassiusbarg.com</a> • 
   <a href="https://cassiussoftwarehouse.com" target="_blank">🌐 cassiussoftwarehouse.com</a> • 
   <a href="https://www.linkedin.com/in/cassiusbarg/" target="_blank">LinkedIn</a> • 
+  <a href="https://wa.me/5547997737121/" target="_blank">WhatsApp</a> • 
   <a href="mailto:cassiusbarg@gmail.com">E-mail</a>
 </p>
 

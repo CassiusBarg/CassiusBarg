@@ -25,14 +25,16 @@ Sou movido por desafios e pela busca da excelência técnica, com o objetivo de 
 
 ### 🚀 Projetos Ativos
 
-| Projeto | Descrição | Tecnologias |
-|:--|:--|:--|
-| 🌿 [**CBDreams**](https://cbdreams.org) | Plataforma de prescrição e agendamento médico online com integração de pagamentos e prontuários. | React, Node.js, Tailwind, MongoDB |
-| 🤖 [**IA Creo**](https://iacreo.com) | Plataforma de automação de postagens com IA, integrada ao Instagram, Facebook e TikTok. | Next.js, Node.js, Prisma, OpenAI API |
-| 💞 [**Matchify Network**](https://matchify.network) | Aplicativo social em PWA que conecta pessoas com base em interesses, usando matching inteligente. | React, Vite, Firebase, Express |
-| 💳 [**DelasBank**](https://delasbank.com.br) | Fintech com foco em empoderamento financeiro feminino, oferecendo soluções digitais de pagamento. | Laravel, PHP, MySQL, TailwindCSS |
-
-> 🧩 Todos os projetos estão **em produção**, com usuários reais e sistemas de backend e frontend ativos.
+| Projeto                                                                                            | Descrição                                                                                                                    | Tecnologias                                |
+| :------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
+| 🌿 [CBDreams](https://cbdreams.org?utm_source=chatgpt.com)                                         | Plataforma de prescrição e agendamento médico online com integração de pagamentos e prontuários.                             | React, Node.js, Tailwind, MongoDB          |
+| 🤖 [IA Creo](https://iacreo.com?utm_source=chatgpt.com)                                            | Plataforma de automação de postagens com IA, integrada ao Instagram, Facebook e TikTok.                                      | Next.js, Node.js, Prisma, OpenAI API       |
+| 💞 [Matchify Network](https://matchify.network?utm_source=chatgpt.com)                             | Aplicativo social em PWA que conecta pessoas com base em interesses, usando matching inteligente.                            | React, Vite, Firebase, Express             |
+| 💳 [DelasBank](https://delasbank.com.br?utm_source=chatgpt.com)                                    | Fintech com foco em empoderamento financeiro feminino, oferecendo soluções digitais de pagamento.                            | Laravel, PHP, MySQL, TailwindCSS           |
+| 👗 [Estilo da Ari](https://estilodaari.com?utm_source=chatgpt.com)                                 | E-commerce de moda feminina com identidade premium, integração de pagamentos e experiência mobile otimizada.                 | React, Vite, Mercado Pago API, TailwindCSS |
+| 🏡 [Pousada Cantinho da Tia Sandra](https://pousadacantinhodatiasandra.com?utm_source=chatgpt.com) | Site institucional e sistema de reservas para hospedagem, com foco em experiência do hóspede e conversão direta.             | React, Node.js, WhatsApp API, TailwindCSS  |
+| 💻 [Cassius Software House](https://cassiussoftwarehouse.com?utm_source=chatgpt.com)               | Software House especializada em desenvolvimento web, automações, inteligência artificial e soluções digitais personalizadas. | Next.js, TypeScript, Node.js, Docker       |
+| ✨ [Studio Dias](https://salaostudiodias.com?utm_source=chatgpt.com)                                | Plataforma institucional para salão premium com agendamento online, branding sofisticado e integração com WhatsApp.          | React, Vite, TailwindCSS, Firebase         |
 
 ---
 

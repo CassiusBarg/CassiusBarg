@@ -3,6 +3,7 @@
 <p align="center">
   🚀 Engenheiro de Software Full Stack | 💻 Desenvolvedor Web | 🤖 IA & Automação <br/>
   <a href="https://cassiusbarg.com" target="_blank">🌐 cassiusbarg.com</a> • 
+  <a href="https://cassiussoftwarehouse.com" target="_blank">🌐 cassiussoftwarehouse.com</a> • 
   <a href="https://www.linkedin.com/in/cassiusbarg/" target="_blank">LinkedIn</a> • 
   <a href="mailto:cassiusbarg@gmail.com">E-mail</a>
 </p>
